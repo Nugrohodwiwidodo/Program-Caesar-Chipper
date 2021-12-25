@@ -1,0 +1,2 @@
+# Program-Caesar-Chipper
+Caesar chipper adalah algoritma yang mengubah kalimat yang memiliki fungsi menyandikan (enksripsi) dan mengembalikan ke bentuk semula (deskripsi). Enkripsi dilakukan dengan menggeser ke kanan atau menjumlahkan ordinal aplhabet dengan konstanta tertentu, sedangkan deskripsi melakukan sebaliknya. Pergeseran menerapkan konsep rotasi, akan kembali ke huruf awal jika pergeseran ke kanan lebih dari "z" atau kembali ke huruf akhir (z) jika ke kiri lebih dari "a". Setiap huruf bisa diubah menjadi code point menggunakan tabel ASCII code.
